@@ -8,4 +8,7 @@ The purpose of this small repo is to list most of the common collections in Java
 
 - Iterable (Interface)
   - Collection (Interface)
-    - List
+    - List (Interface)
+    - Queue (Interface)
+      - Deque (Interface)
+    - Set (Interface)
