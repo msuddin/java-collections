@@ -7,8 +7,10 @@ package iterable.collection.set;
 * HashSet is not thread safe
 * */
 
-import java.sql.SQLOutput;
-import java.util.*;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Objects;
+import java.util.Set;
 
 public class HashSetExample {
 
@@ -26,7 +28,6 @@ public class HashSetExample {
         System.out.println("Attempting to add Abra again as a duplicate");
         pokemons.add("Abra");
         System.out.println("Printing all items in pokemon: " + pokemons);
-
 
         // Accessing items
         System.out.println("\nPrinting to see if hashSet contains 'Abra'");
