@@ -5,6 +5,7 @@ package map;
 * Ordering can be customer by providing a comparator at map instantiation
 * Can not contain duplicate keys
 * Can not contain any null keys but can have null values
+* TreeMap is not thread safe
 * */
 
 import java.util.Comparator;
