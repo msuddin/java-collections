@@ -15,7 +15,7 @@ The purpose of this small repo is to list most of the common collections in Java
         - Stack (Class)
     - Queue (Interface)
       - PriorityQueue (Class)
-      - LinkedList (Class)
+      - LinkedList (Class) - Done as part of List interface
       - Deque (Interface)
         - ArrayDeque (Class)
     - Set (Interface)

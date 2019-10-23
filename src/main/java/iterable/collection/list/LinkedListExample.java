@@ -8,6 +8,7 @@ package iterable.collection.list;
 * Linked list maintains the order of the items that were added to it
 * Since each node contains three sets of data, a linkedList stores more data than an ArrayList
 * LinkedList are faster than arrayList since items inserted into arrayList would need all items to be shifter
+* Can contain duplicate items
 * */
 
 import java.util.Iterator;
